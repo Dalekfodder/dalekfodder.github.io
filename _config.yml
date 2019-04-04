@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://dalekfodder.github.io"
+url: "https://berkbuzcu.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -73,10 +73,10 @@ author:
 social-network-links:
   rss: true
   email: "buzcuberk@gmail.com"
-  github: dalekfodder
+  github: berkbuzcu
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: berkbuzcu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -90,8 +90,8 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: true
 
